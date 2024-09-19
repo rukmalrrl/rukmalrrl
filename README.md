@@ -1,6 +1,6 @@
 
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/rukmalrrl/rukmalrrl/blob/main/header_.png)
 
 <h2 align="center">Electrical Engineering (UG) @University of Moratuwa</h2>
 
